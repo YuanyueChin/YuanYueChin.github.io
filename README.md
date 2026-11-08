@@ -1,13 +1,13 @@
 # Chin Yuan Yue — Portfolio
 
-A minimalist, responsive personal website built with plain HTML, CSS, and JavaScript for GitHub Pages. All profile content is based on the supplied resume. The abstract illustration is CSS; no personal photographs are used.
+A minimalist, responsive personal website built with plain HTML, CSS, and JavaScript for GitHub Pages. All profile content is based on the supplied resume. No personal photographs or logos are used.
 
 ## Files
 
 ```
 index.html
-css/style.css
-js/main.js
+style.css
+main.js
 README.md
 ```
 
@@ -25,7 +25,7 @@ Then open `http://localhost:8000`.
 
 1. Sign in to GitHub and find your exact GitHub username.
 2. Create a **public** repository named **`YOUR-USERNAME.github.io`**, replacing `YOUR-USERNAME` with that exact username.
-3. Upload **the contents of this folder** to the repository root. Keep `index.html` at the root, with the `css`, `js`, and `assets` folders beside it. You can drag in the files through **Add file → Upload files**, then commit them.
+3. Upload **the contents of this folder** to the repository root. Keep `index.html`, `style.css`, and `main.js` together at the root. You can drag in the files through **Add file → Upload files**, then commit them.
 4. Open **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**. Select the **main** branch and **/(root)** folder, then save.
 5. After GitHub finishes publishing, visit `https://YOUR-USERNAME.github.io/`.
 
